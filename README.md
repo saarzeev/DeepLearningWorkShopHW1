@@ -2,8 +2,7 @@
 
 This assignment was implemented by:
 
-Nimrod Haiat
-Saar Guttman
+Nimrod Haiat & Saar Guttman
 
 As part of a Deep Learning Workshop course, as part of the 4th year of Software and Information System Engineering, studied in Ben Gurion University of the Negev.
 
